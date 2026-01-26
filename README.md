@@ -2,7 +2,6 @@
 
 A premium, minimalistic habit-tracking application built with modern web technologies. Track your daily habits, visualize progress with beautiful heatmaps, and achieve your goals with an intuitive, beautiful interface.
 
-![Habitly Preview](https://raw.githubusercontent.com/vasudevsharma-coder/habitly/refs/heads/main/public/social-card.png)
 
 ## ✨ Live Demo
 
