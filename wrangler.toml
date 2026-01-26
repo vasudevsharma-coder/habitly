@@ -1,0 +1,9 @@
+name = "habitly"
+compatibility_date = "2024-11-01"
+pages_build_output_dir = "dist"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "habitly-db"
+database_id = "88440625-5c27-4802-8816-242679186a17"
